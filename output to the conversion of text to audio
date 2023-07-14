@@ -1,0 +1,10 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+PS C:\Users\pavani\OneDrive\Desktop\resumeprojects>  & 'C:\Users\pavani\AppData\Local\Microsoft\WindowsApps\python3.11.exe' 'c:\Users\pavani\.vscode\extensions\ms-python.python-2023.13.11941005\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '55799' '--' 'C:\Users\pavani\OneDrive\Desktop\resumeprojects\audio.py'
+====audio playing====
+PS C:\Users\pavani\OneDrive\Desktop\resumeprojects>  c:; cd 'c:\Users\pavani\OneDrive\Desktop\resumeprojects'; & 'C:\Users\pavani\AppData\Local\Microsoft\WindowsApps\python3.11.exe' 'c:\Users\pavani\.vscode\extensions\ms-python.python-2023.13.11941005\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '55814' '--' 'C:\Users\pavani\OneDrive\Desktop\resumeprojects\audio.py'
+====audio playing====
+PS C:\Users\pavani\OneDrive\Desktop\resumeprojects>  c:; cd 'c:\Users\pavani\OneDrive\Desktop\resumeprojects'; & 'C:\Users\pavani\AppData\Local\Microsoft\WindowsApps\python3.11.exe' 'c:\Users\pavani\.vscode\extensions\ms-python.python-2023.13.11941005\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '56216' '--' 'C:\Users\pavani\OneDrive\Desktop\resumeprojects\audio.py'
