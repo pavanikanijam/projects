@@ -1,0 +1,86 @@
+output1:Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\pavani\OneDrive\Desktop\resumeprojects>  & 'C:\Users\pavani\AppData\Local\Microsoft\WindowsApps\python3.11.exe' 'c:\Users\pavani\.vscode\extensions\ms-python.python-2023.13.11941005\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '57161' '--' 'C:\Users\pavani\OneDrive\Desktop\resumeprojects\atm.py' 
+Enter your namepavani
+enter your passwordSunil@123
+
+          1.Deposit
+          2.Withdraw
+          3.Ministatement
+          4.Exit
+
+select your option2
+enter trhe amount:3000
+current balance 97000
+///////
+output2:PS C:\Users\pavani\OneDrive\Desktop\resumeprojects>  c:; cd 'c:\Users\pavani\OneDrive\Desktop\resumeprojects'; & 'C:\Users\pavani\AppData\Local\Microsoft\WindowsApps\python3.11.exe' 'c:\Users\pavani\.vscode\extensions\ms-python.python-2023.13.11941005\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '57215' '--' 'C:\Users\pavani\OneDrive\Desktop\resumeprojects\atm.py'
+Enter your namenavitha
+enter your password123
+please enter correct credentials
+PS C:\Users\pavani\OneDrive\Desktop\resumeprojects> 
+////////
+output 3:Enter your namepavani
+enter your passwordSunil@123
+
+          1.Deposit
+          2.Withdraw
+          3.Ministatement
+          4.Exit
+
+select your option2
+enter trhe amount:100000
+Insufficient balance
+///////
+output 4:Enter your namepavani
+enter your passwordSunil@123
+
+          1.Deposit
+          2.Withdraw
+          3.Ministatement
+          4.Exit
+
+select your option1
+Enter the amount1000
+Total amount: 101000
+/////
+output5:
+Enter your namepavani
+enter your passwordSunil@123
+
+          1.Deposit
+          2.Withdraw
+          3.Ministatement
+          4.Exit
+
+select your option1
+Enter the amount1000
+Total amount: 101000
+PS C:\Users\pavani\OneDrive\Desktop\resumeprojects>  c:; cd 'c:\Users\pavani\OneDrive\Desktop\resumeprojects'; & 'C:\Users\pavani\AppData\Local\Microsoft\WindowsApps\python3.11.exe' 'c:\Users\pavani\.vscode\extensions\ms-python.python-2023.13.11941005\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '57309' '--' 'C:\Users\pavani\OneDrive\Desktop\resumeprojects\atm.py'
+Enter your namepavani
+enter your passwordSunil@123
+
+          1.Deposit
+          2.Withdraw
+          3.Ministatement
+          4.Exit
+
+select your option3
+====atm====
+User name: pavani
+Total amount: 100000
+Thank you
+==========
+/////
+output6:
+Enter your namepavani
+enter your passwordSunil@123
+
+          1.Deposit
+          2.Withdraw
+          3.Ministatement
+          4.Exit
+
+select your option4
